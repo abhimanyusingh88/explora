@@ -1,0 +1,63 @@
+.cityItem,
+.cityItem:link,
+.cityItem:visited {
+  display: flex;
+  gap: 1.6rem;
+  align-items: center;
+
+  background-color: var(--color-dark--2);
+  border-radius: 7px;
+  padding: 1rem 2rem;
+  border-left: 5px solid var(--color-brand--2);
+  cursor: pointer;
+
+  color: inherit;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  /* background-color: white; */
+}
+
+.cityItem--active {
+  border: 2px solid var(--color-brand--2);
+  border-left: 5px solid var(--color-brand--2);
+  background-color: var(--color-dark--1); /* Add subtle background change for active item */
+}
+
+.cityItem:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.emoji {
+  font-size: 2.6rem;
+  line-height: 1;
+}
+
+.name {
+  font-size: 1.7rem;
+  font-weight: 600;
+  margin-right: auto;
+}
+
+.date {
+  font-size: 1.5rem;
+  color: var(--color-light--1); /* Slightly lighter color for date */
+}
+
+.deleteBtn {
+  height: 2rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: none;
+  background-color: var(--color-dark--1);
+  color: var(--color-light--2);
+  font-size: 1.6rem;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.deleteBtn:hover {
+  background-color: var(--color-brand--1);
+  color: var(--color-dark--1);
+}

@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🏳️‍🌈",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "cdd8",
+      "cityName": "Montferrer i Castellbo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-29T14:46:18.486Z",
+      "notes": "",
+      "position": {
+        "lat": 42.405378189659935,
+        "lng": 1.3364675526126657
+      }
+    },
+    {
+      "id": "90ee",
+      "cityName": "Saint-Hippolyte",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-09-29T20:18:03.179Z",
+      "notes": "",
+      "position": {
+        "lat": 47.053669516061184,
+        "lng": 1.1425781250000002
+      }
+    },
+    {
+      "id": "9732",
+      "cityName": "Chera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-03T22:40:05.773Z",
+      "notes": "",
+      "position": {
+        "lat": 39.55114509241789,
+        "lng": -0.9465908375556432
+      }
+    },
+    {
+      "id": "13dc",
+      "cityName": "Valdecaballeros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-04T06:59:29.157Z",
+      "notes": "",
+      "position": {
+        "lat": 39.29617834896942,
+        "lng": -5.163574218750001
+      }
+    },
+    {
+      "id": "424f",
+      "cityName": "Pedrosa de la Vega",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-04T06:59:37.365Z",
+      "notes": "",
+      "position": {
+        "lat": 42.50309603020639,
+        "lng": -4.724121093750001
+      }
+    }
+  ]
+}
